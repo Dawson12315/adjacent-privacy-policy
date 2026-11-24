@@ -61,4 +61,4 @@ You can manage or delete library, playlist, artwork, and listening data on your 
 
 For privacy questions, contact:
 
-dawsonbrennenhudson@yahoo.com
+adjacentmusic@yahoo.com
